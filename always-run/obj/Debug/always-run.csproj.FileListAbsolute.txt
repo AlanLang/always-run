@@ -12,3 +12,17 @@ C:\MyGitLab\always-run\always-run\obj\Debug\always-run.csproj.GenerateResource.C
 C:\MyGitLab\always-run\always-run\obj\Debug\always-run.exe
 C:\MyGitLab\always-run\always-run\obj\Debug\always-run.pdb
 C:\MyGitLab\always-run\always-run\obj\Debug\always-run.csprojResolveAssemblyReference.cache
+D:\MyProject\always-run\always-run\bin\Debug\always-run.exe.config
+D:\MyProject\always-run\always-run\bin\Debug\always-run.exe
+D:\MyProject\always-run\always-run\bin\Debug\always-run.pdb
+D:\MyProject\always-run\always-run\obj\Debug\MainWindow.g.cs
+D:\MyProject\always-run\always-run\obj\Debug\App.g.cs
+D:\MyProject\always-run\always-run\obj\Debug\always-run_MarkupCompile.cache
+D:\MyProject\always-run\always-run\obj\Debug\always-run_MarkupCompile.lref
+D:\MyProject\always-run\always-run\obj\Debug\MainWindow.baml
+D:\MyProject\always-run\always-run\obj\Debug\always-run.g.resources
+D:\MyProject\always-run\always-run\obj\Debug\always_run.Properties.Resources.resources
+D:\MyProject\always-run\always-run\obj\Debug\always-run.csproj.GenerateResource.cache
+D:\MyProject\always-run\always-run\obj\Debug\always-run.csproj.CoreCompileInputs.cache
+D:\MyProject\always-run\always-run\obj\Debug\always-run.exe
+D:\MyProject\always-run\always-run\obj\Debug\always-run.pdb
